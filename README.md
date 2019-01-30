@@ -26,11 +26,6 @@ The sequency should start with 0.
 Invalid input should throw an exception.
 
 ```js
-module.exports.fibonacciUsage: = function() {};
-```
-This function returns the number of times that `MathFun.fibonacci` has been called.
-
-```js
 export function fibonacciUsage() {};
 ```
 This function returns the number of times that `fibonacci` has been called. 
